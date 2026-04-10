@@ -130,5 +130,8 @@ using Gobuster to discover hidden files and pages on the server
 followed by a web vulnerability scan using Nikto. The 404 response 
 on favicon.ico tells the attacker the server has limited default files 
 installed which is useful reconnaissance before launching a targeted 
-attack.# cybersecurity-portfolio
+attack.
+## Week 2 — SSH Log Analysis & Linux Fundamentals
+grep, pipe, SSH logs, timeline reconstruction, true vs false positive.
+# cybersecurity-portfolio
 My 6-month cybersecurity training portfolio
