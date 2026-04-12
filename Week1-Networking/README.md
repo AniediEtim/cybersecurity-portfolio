@@ -20,7 +20,7 @@ environments on Kali Linux.
 | Week | Topic | File |
 |---|---|---|
 | Week 1 | Network traffic analysis — DNS, TCP, ARP, HTTP, Subnetting | [wireshark_week1_analysis.md](./wireshark_week1_analysis.md) |
-| Week 2 | Linux hardening — SSH keys, log analysis, iptables, bash | [ssh_log_analysis_week2.md](/ssh_log_analysis_week2.md) |
+| Week 2 | Linux hardening — SSH keys, log analysis, iptables, bash | [ssh_log_analysis_week2.md](..../ssh_log_analysis_week2.md) |
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/aniedi-etim-b74192316/
