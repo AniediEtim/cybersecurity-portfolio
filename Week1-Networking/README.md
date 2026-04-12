@@ -1,5 +1,5 @@
 
-# Aniedi Etim — Cybersecurity Portfolio
+# Aniedi Etim  Cybersecurity Portfolio
 
 Hands-on cybersecurity training across offensive and defensive security.
 Balanced Red Team and Blue Team track. All labs performed in isolated
